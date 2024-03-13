@@ -20,7 +20,6 @@ Classification model: Gate Recurrent Unit (GRU).
 - Pandas
 - Matplotlib
 
-- 
 
 
 
