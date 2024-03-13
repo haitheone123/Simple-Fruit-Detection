@@ -8,8 +8,9 @@ The LSA64 dataset consists of images depicting sign language in Argentinian, eac
 Further information can be found [here](http://facundoq.github.io/datasets/lsa64/).
 
 ## Model Architecture
-Feature extractor: InceptionV3 (from Keras) \\
-Classification model: Gate Recurrent Unit (GRU)
+Feature extractor: InceptionV3 (from Keras).
+
+Classification model: Gate Recurrent Unit (GRU).
 
 ## Requirements
 - Python 3.10
@@ -18,3 +19,8 @@ Classification model: Gate Recurrent Unit (GRU)
 - NumPy
 - Pandas
 - Matplotlib
+
+- 
+
+
+
